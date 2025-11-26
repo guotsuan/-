@@ -1,0 +1,5 @@
+{
+  "name": "Research Funding Calculator",
+  "description": "A smart calculator for research grant indirect costs based on total funding and equipment expenses, compliant with standard regulations.",
+  "requestFramePermissions": []
+}
